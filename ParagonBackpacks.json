@@ -1,0 +1,149 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Paragon BACKPACKS",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+                {
+                    "ClassName": "Paragon_RaidBag_Black",
+                    "MaxPriceThreshold": 10000,
+                    "MinPriceThreshold": 7500,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_RaidBag_Blue",
+                        "Paragon_RaidBag_Desert",
+                        "Paragon_RaidBag_Green",
+                        "Paragon_RaidBag_WL"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_GunBag_Black",
+                    "MaxPriceThreshold": 7500,
+                    "MinPriceThreshold": 3250,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_GunBag_Blue",
+                        "Paragon_GunBag_Desert",
+                        "Paragon_GunBag_Green"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_US_Military_Black",
+                    "MaxPriceThreshold": 7500,
+                    "MinPriceThreshold": 3250,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_US_Military_Blue",
+                        "Paragon_US_Military_Desert",
+                        "Paragon_US_Military_Green"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Rubicon_Black",
+                    "MaxPriceThreshold": 7500,
+                    "MinPriceThreshold": 3250,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Rubicon_Blue",
+                        "Paragon_Rubicon_Desert",
+                        "Paragon_Rubicon_Green"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Duffle_Bag_Black",
+                    "MaxPriceThreshold": 7500,
+                    "MinPriceThreshold": 3250,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Duffle_Bag_Blue",
+                        "Paragon_Duffle_Bag_Desert",
+                        "Paragon_Duffle_Bag_Green"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Deployment_Bag_Black",
+                    "MaxPriceThreshold": 5000,
+                    "MinPriceThreshold": 3250,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Deployment_Bag_WL",
+                        "Paragon_Deployment_Bag_Desert",
+                        "Paragon_Deployment_Bag_Desert_Camo",
+                        "Paragon_Deployment_Bag_Green"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Tactical_Bag_Black",
+                    "MaxPriceThreshold": 5000,
+                    "MinPriceThreshold": 2500,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Tactical_Bag_Red",
+                        "Paragon_Tactical_Bag_Tan",
+                        "Paragon_Tactical_Bag_Blue",
+                        "Paragon_Tactical_Bag_Green"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Compact_Black",
+                    "MaxPriceThreshold": 4000,
+                    "MinPriceThreshold": 2000,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Compact_Blue",
+                        "Paragon_Compact_Desert",
+                        "Paragon_Compact_Green",
+                        "Paragon_Compact_Grey"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Rush_24_Bag_Black",
+                    "MaxPriceThreshold": 3000,
+                    "MinPriceThreshold": 1500,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Rush_24_Bag_Blue",
+                        "Paragon_Rush_24_Bag_Desert",
+                        "Paragon_Rush_24_Bag_Green"
+                    ]
+                }
+    ]
+}

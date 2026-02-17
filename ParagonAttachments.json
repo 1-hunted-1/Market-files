@@ -1,0 +1,115 @@
+{
+    "m_Version": 12,
+    "DisplayName": "Paragon Attachments",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+                {
+                    "ClassName": "Paragon_HP_Black",
+                    "MaxPriceThreshold": 1500,
+                    "MinPriceThreshold": 1000,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_HP_Desert",
+                        "Paragon_HP_Green",
+                        "Paragon_HP_Blue"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_EarCovers_Black",
+                    "MaxPriceThreshold": 1500,
+                    "MinPriceThreshold": 1000,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_EarCovers_Green",
+                        "Paragon_EarCovers_Desert",
+                        "Paragon_EarCovers_Blue"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Visor_Black",
+                    "MaxPriceThreshold": 1500,
+                    "MinPriceThreshold": 1000,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Visor_Green",
+                        "Paragon_Visor_Desert",
+                        "Paragon_Visor_Blue"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Mandible_Black",
+                    "MaxPriceThreshold": 1500,
+                    "MinPriceThreshold": 1000,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Mandible_Green",
+                        "Paragon_Mandible_Desert",
+                        "Paragon_Mandible_Blue",
+                        "Paragon_Mandible_Desert_Camo"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_NVG_Black_B",
+                    "MaxPriceThreshold": 1500,
+                    "MinPriceThreshold": 1000,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_NVG_Black_P",
+                        "Paragon_NVG_Black_G",
+                        "Paragon_NVG_Green_B",
+                        "Paragon_NVG_Green_P",
+                        "Paragon_NVG_Green_G",
+                        "Paragon_NVG_Blue_B",
+                        "Paragon_NVG_Blue_P",
+                        "Paragon_NVG_Blue_G",
+                        "Paragon_NVG_Desert_B",
+                        "Paragon_NVG_Desert_P",
+                        "Paragon_NVG_Desert_G"
+                    ]
+                },
+                {
+                    "ClassName": "Paragon_Patch_USA",
+                    "MaxPriceThreshold": 500,
+                    "MinPriceThreshold": 250,
+                    "SellPricePercent": -1.0,
+                    "MaxStockThreshold": 1,
+                    "MinStockThreshold": 1,
+                    "QuantityPercent": -1,
+                    "SpawnAttachments": [],
+                    "Variants": [
+                        "Paragon_Patch_Austria",
+                        "Paragon_Patch_France",
+                        "Paragon_Patch_Germany",
+                        "Paragon_Patch_Israel",
+                        "Paragon_Patch_Russian",
+                        "Paragon_Patch_Ukraine",
+                        "Paragon_Patch_Canada",
+                        "Paragon_Patch_Poland",
+                        "Paragon_Patch_Britain"
+                    ]
+                }
+    ]
+}
