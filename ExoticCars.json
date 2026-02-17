@@ -1,0 +1,327 @@
+{
+    "m_Version": 12,
+    "DisplayName": "4KBOSSK Vehicles",
+    "Icon": "Car",
+    "Color": "FFFFFFFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "TyphoonK_CamoGreen",
+            "MaxPriceThreshold": 140000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MotorHome_Apo",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MotorHome_White",
+                "MotorHome_Rust",
+                "MotorHome_GreenCamo"
+            ]
+        },
+        {
+            "ClassName": "DodgeRam_BOSS_Black",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "DodgeRam_BOSS_Yellow",
+                "DodgeRam_BOSS_Green",
+                "DodgeRam_BOSS_White",
+                "DodgeRam_BOSS_Teal",
+                "DodgeRam_BOSS_Red",
+                "DodgeRam_BOSS_Blue",
+                "DodgeRam_BOSS_camoblack",
+                "DodgeRam_BOSS_camoblue",
+                "DodgeRam_BOSS_camowhite",
+                "DodgeRam_BOSS_camored",
+                "DodgeRam_BOSS_camonuke",
+                "DodgeRam_BOSS_camogreen"
+            ]
+        },
+        {
+            "ClassName": "ToyotaRunner_Black",
+            "MaxPriceThreshold": 140000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "ToyotaRunner_camoblack",
+                "ToyotaRunner_camowhite",
+                "ToyotaRunner_camogreen",
+                "ToyotaRunner_white",
+                "ToyotaRunner_red",
+                "ToyotaRunner_blue",
+                "ToyotaRunner_camored",
+                "ToyotaRunner_camopink",
+                "ToyotaRunner_pink",
+                "ToyotaRunner_yellow",
+                "ToyotaRunner_camoblue",
+                "ToyotaRunner_camopurple",
+                "ToyotaRunner_BOSS"
+            ]
+        },
+        {
+            "ClassName": "Jeep_GladiatorF9_BOSS_Black",
+            "MaxPriceThreshold": 155000,
+            "MinPriceThreshold": 155000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Jeep_GladiatorF9_BOSS_White",
+                "Jeep_GladiatorF9_BOSS_Gold",
+                "Jeep_GladiatorF9_BOSS_Brown",
+                "Jeep_GladiatorF9_BOSS_DarkRed",
+                "Jeep_GladiatorF9_BOSS_DarkBlue",
+                "Jeep_GladiatorF9_BOSS_camo_green",
+                "Jeep_GladiatorF9_BOSS_camo_red",
+                "Jeep_GladiatorF9_BOSS_camo_blue",
+                "Jeep_GladiatorF9_BOSS_camo_black"
+            ]
+        },
+        {
+            "ClassName": "dodgechargerhellcat_black",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgechargerhellcat_blue",
+                "dodgechargerhellcat_green",
+                "dodgechargerhellcat_red",
+                "dodgechargerhellcat_pink",
+                "dodgechargerhellcat_lightblue",
+                "dodgechargerhellcat_white"
+            ]
+        },
+        {
+            "ClassName": "NissanGTRNismo_Black",
+            "MaxPriceThreshold": 200000,
+            "MinPriceThreshold": 200000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTRNismo_White",
+                "NissanGTRNismo_Red",
+                "NissanGTRNismo_DarkPurple",
+                "NissanGTR_White",
+                "NissanGTR_Green",
+                "NissanGTR_Orange",
+                "NissanGTR_Pink",
+                "NissanGTR_Red",
+                "NissanGTR_Blue",
+                "NissanGTRCustom_Black",
+                "NissanGTRCustom_Blood",
+                "NissanGTRCustom_LB",
+                "NissanGTRCustom_Pink"
+            ]
+        },
+        {
+            "ClassName": "Ford_Raptor_MonsterTruck_USA",
+            "MaxPriceThreshold": 170000,
+            "MinPriceThreshold": 170000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Ford_Raptor_MonsterTruck_Raptor",
+                "Ford_Raptor_MonsterTruck_Baja",
+                "Ford_Raptor_MonsterTruck_Roush",
+                "Ford_Raptor_MonsterTruck_WideOpen",
+                "Ford_Raptor_MonsterTruck_Halo"
+            ]
+        },
+        {
+            "ClassName": "Supra_Blue",
+            "MaxPriceThreshold": 140000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Supra_Green",
+                "Supra_Red",
+                "Supra_Black",
+                "Supra_White",
+                "Supra_FastF",
+                "Supra_Lighting",
+                "Supra_Sponge"
+            ]
+        },
+        {
+            "ClassName": "Chevrolet_NapalmNova_Black",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Chevrolet_NapalmNova_White",
+                "Chevrolet_NapalmNova_Red",
+                "Chevrolet_NapalmNova_Blue",
+                "Chevrolet_NapalmNova_Green",
+                "Chevrolet_NapalmNova_Yellow",
+                "Chevrolet_NapalmNova_Pink",
+                "Chevrolet_NapalmNova_Purple",
+                "Chevrolet_NapalmNova_Orange"
+            ]
+        },
+        {
+            "ClassName": "Dodge_ChallengerSRT_Black",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 150000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Dodge_ChallengerSRT_White",
+                "Dodge_ChallengerSRT_DarkBlue",
+                "Dodge_ChallengerSRT_Blue",
+                "Dodge_ChallengerSRT_Red",
+                "Dodge_ChallengerSRT_Green",
+                "Dodge_ChallengerSRT_Orange"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Black",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 175000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_White",
+                "Porsche_911RWB_Green",
+                "Porsche_911RWB_Blue",
+                "Porsche_911RWB_Red",
+                "Porsche_911RWB_Orange",
+                "Porsche_911RWB_Pink"
+            ]
+        },
+        {
+            "ClassName": "Nissan_Skyline_Black",
+            "MaxPriceThreshold": 250000,
+            "MinPriceThreshold": 250000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Nissan_Skyline_White",
+                "Nissan_Skyline_Blue",
+                "Nissan_Skyline_Pink",
+                "Nissan_Skyline_Orange",
+                "Nissan_Skyline_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_Black",
+            "MaxPriceThreshold": 155000,
+            "MinPriceThreshold": 155000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_White",
+                "Tahoe_Blue",
+                "Tahoe_Brown",
+                "Tahoe_DarkBlue",
+                "Tahoe_Green",
+                "Tahoe_Pink",
+                "Tahoe_Red"
+            ]
+        },
+        {
+            "ClassName": "Ford_Bronco_Black",
+            "MaxPriceThreshold": 140000,
+            "MinPriceThreshold": 140000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Ford_Bronco_White",
+                "Ford_Bronco_Hunter",
+                "Ford_Bronco_Rust"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Black",
+            "MaxPriceThreshold": 145000,
+            "MinPriceThreshold": 145000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_White",
+                "Audi_RS6_ABT_Red",
+                "Audi_RS6_ABT_Blue",
+                "Audi_RS6_ABT_Yellow",
+                "Audi_RS6_ABT_Green",
+                "Audi_RS6_ABT_Pink",
+                "Audi_RS6_ABT_Teal",
+                "Audi_RS6_ABT_MidNightBlue"
+            ]
+        },
+        {
+            "ClassName": "GMC_BOSS_Black",
+            "MaxPriceThreshold": 165000,
+            "MinPriceThreshold": 165000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "GMC_BOSS_Red",
+                "GMC_BOSS_White",
+                "GMC_BOSS_Blue"
+            ]
+        }
+    ]
+}

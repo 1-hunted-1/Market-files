@@ -1,0 +1,1465 @@
+{
+    "m_Version": 12,
+    "DisplayName": "4KBOSSK Vehicle Parts",
+    "Icon": "Car",
+    "Color": "FFFFFFFF",
+    "IsExchange": 0,
+    "InitStockPercent": 100.0,
+    "Items": [
+        {
+            "ClassName": "Audi_RS6_ABT_Driver_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Driver_Blue",
+                "Audi_RS6_ABT_Driver_Green",
+                "Audi_RS6_ABT_Driver_MidNightBlue",
+                "Audi_RS6_ABT_Driver_Pink",
+                "Audi_RS6_ABT_Driver_Red",
+                "Audi_RS6_ABT_Driver_Teal",
+                "Audi_RS6_ABT_Driver_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_CoDriver_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_CoDriver_Blue",
+                "Audi_RS6_ABT_CoDriver_Green",
+                "Audi_RS6_ABT_CoDriver_MidNightBlue",
+                "Audi_RS6_ABT_CoDriver_Pink",
+                "Audi_RS6_ABT_CoDriver_Red",
+                "Audi_RS6_ABT_CoDriver_Teal",
+                "Audi_RS6_ABT_CoDriver_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Cargo1_Black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Cargo1_Blue",
+                "Audi_RS6_ABT_Cargo1_Green",
+                "Audi_RS6_ABT_Cargo1_MidNightBlue",
+                "Audi_RS6_ABT_Cargo1_Pink",
+                "Audi_RS6_ABT_Cargo1_Red",
+                "Audi_RS6_ABT_Cargo1_Teal",
+                "Audi_RS6_ABT_Cargo1_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Cargo2_Black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Cargo2_Blue",
+                "Audi_RS6_ABT_Cargo2_Green",
+                "Audi_RS6_ABT_Cargo2_MidNightBlue",
+                "Audi_RS6_ABT_Cargo2_Pink",
+                "Audi_RS6_ABT_Cargo2_Red",
+                "Audi_RS6_ABT_Cargo2_Teal",
+                "Audi_RS6_ABT_Cargo2_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Hood_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Hood_Blue",
+                "Audi_RS6_ABT_Hood_Green",
+                "Audi_RS6_ABT_Hood_MidNightBlue",
+                "Audi_RS6_ABT_Hood_Pink",
+                "Audi_RS6_ABT_Hood_Red",
+                "Audi_RS6_ABT_Hood_Teal",
+                "Audi_RS6_ABT_Hood_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Trunk_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Audi_RS6_ABT_Trunk_Blue",
+                "Audi_RS6_ABT_Trunk_Green",
+                "Audi_RS6_ABT_Trunk_MidNightBlue",
+                "Audi_RS6_ABT_Trunk_Pink",
+                "Audi_RS6_ABT_Trunk_Red",
+                "Audi_RS6_ABT_Trunk_Teal",
+                "Audi_RS6_ABT_Trunk_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Audi_RS6_ABT_Wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "BMW_M3_DriverDoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_M3_DriverDoor_Blue",
+                "BMW_M3_DriverDoor_Green",
+                "BMW_M3_DriverDoor_MidNightBlue",
+                "BMW_M3_DriverDoor_Orange",
+                "BMW_M3_DriverDoor_Red"
+            ]
+        },
+        {
+            "ClassName": "BMW_M3_CoDriver_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_M3_CoDriver_Blue",
+                "BMW_M3_CoDriver_Green",
+                "BMW_M3_CoDriver_MidNightBlue",
+                "BMW_M3_CoDriver_Orange",
+                "BMW_M3_CoDriver_Red"
+            ]
+        },
+        {
+            "ClassName": "BMW_M3_Hood_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_M3_Hood_Blue",
+                "BMW_M3_Hood_Green",
+                "BMW_M3_Hood_MidNightBlue",
+                "BMW_M3_Hood_Orange",
+                "BMW_M3_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "BMW_M3_Trunk_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "BMW_M3_Trunk_Blue",
+                "BMW_M3_Trunk_Green",
+                "BMW_M3_Trunk_MidNightBlue",
+                "BMW_M3_Trunk_Orange",
+                "BMW_M3_Trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "BMW_M3_Wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+            
+        },
+        {
+            "ClassName": "Bronco_Driverdoor_Black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Bronco_Driverdoor_Blue",
+                "Bronco_Driverdoor_Hunter",
+                "Bronco_Driverdoor_Rust"
+            ]
+        },
+        {
+            "ClassName": "Bronco_Codriverdoor_Black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Bronco_Codriverdoor_Blue",
+                "Bronco_Codriverdoor_Hunter",
+                "Bronco_Codriverdoor_Rust"
+            ]
+        },
+        {
+            "ClassName": "Bronco_Hood_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Bronco_Hood_Blue",
+                "Bronco_Hood_Hunter",
+                "Bronco_Hood_Rust"
+            ]
+        },
+        {
+            "ClassName": "Bronco_Trunk_Black",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Bronco_Trunk_Blue",
+                "Bronco_Trunk_Hunter",
+                "Bronco_Trunk_Rust"
+            ]
+        },
+        {
+            "ClassName": "bronco_wheel",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Chevrolet_NapalmNova_Driverdoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Chevrolet_NapalmNova_Driverdoor_CamoGreen",
+                "Chevrolet_NapalmNova_Driverdoor_CamoRed",
+                "Chevrolet_NapalmNova_Driverdoor_Green",
+                "Chevrolet_NapalmNova_Driverdoor_NightFrost",
+                "Chevrolet_NapalmNova_Driverdoor_Orange",
+                "Chevrolet_NapalmNova_Driverdoor_Pink",
+                "Chevrolet_NapalmNova_Driverdoor_Purple",
+                "Chevrolet_NapalmNova_Driverdoor_Red",
+                "Chevrolet_NapalmNova_Driverdoor_Reptile",
+                "Chevrolet_NapalmNova_Driverdoor_Skull",
+                "Chevrolet_NapalmNova_Driverdoor_Topo",
+                "Chevrolet_NapalmNova_Driverdoor_White",
+                "Chevrolet_NapalmNova_Driverdoor_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Chevrolet_NapalmNova_CoDriver_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Chevrolet_NapalmNova_CoDriver_CamoGreen",
+                "Chevrolet_NapalmNova_CoDriver_CamoRed",
+                "Chevrolet_NapalmNova_CoDriver_Green",
+                "Chevrolet_NapalmNova_CoDriver_NightFrost",
+                "Chevrolet_NapalmNova_CoDriver_Orange",
+                "Chevrolet_NapalmNova_CoDriver_Pink",
+                "Chevrolet_NapalmNova_CoDriver_Purple",
+                "Chevrolet_NapalmNova_CoDriver_Red",
+                "Chevrolet_NapalmNova_CoDriver_Reptile",
+                "Chevrolet_NapalmNova_CoDriver_Skull",
+                "Chevrolet_NapalmNova_CoDriver_Topo",
+                "Chevrolet_NapalmNova_CoDriver_White",
+                "Chevrolet_NapalmNova_CoDriver_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Chevrolet_NapalmNova_Hood_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Chevrolet_NapalmNova_Hood_CamoGreen",
+                "Chevrolet_NapalmNova_Hood_CamoRed",
+                "Chevrolet_NapalmNova_Hood_Green",
+                "Chevrolet_NapalmNova_Hood_NightFrost",
+                "Chevrolet_NapalmNova_Hood_Orange",
+                "Chevrolet_NapalmNova_Hood_Pink",
+                "Chevrolet_NapalmNova_Hood_Purple",
+                "Chevrolet_NapalmNova_Hood_Red",
+                "Chevrolet_NapalmNova_Hood_Reptile",
+                "Chevrolet_NapalmNova_Hood_Skull",
+                "Chevrolet_NapalmNova_Hood_Topo",
+                "Chevrolet_NapalmNova_Hood_White",
+                "Chevrolet_NapalmNova_Hood_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Chevrolet_NapalmNova_Trunk_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Chevrolet_NapalmNova_Trunk_CamoGreen",
+                "Chevrolet_NapalmNova_Trunk_CamoRed",
+                "Chevrolet_NapalmNova_Trunk_Green",
+                "Chevrolet_NapalmNova_Trunk_NightFrost",
+                "Chevrolet_NapalmNova_Trunk_Orange",
+                "Chevrolet_NapalmNova_Trunk_Pink",
+                "Chevrolet_NapalmNova_Trunk_Purple",
+                "Chevrolet_NapalmNova_Trunk_Red",
+                "Chevrolet_NapalmNova_Trunk_Reptile",
+                "Chevrolet_NapalmNova_Trunk_Skull",
+                "Chevrolet_NapalmNova_Trunk_Topo",
+                "Chevrolet_NapalmNova_Trunk_White",
+                "Chevrolet_NapalmNova_Trunk_Yellow"
+            ]
+        },
+        {
+            "ClassName": "Chevrolet_NapalmNova_Wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "DodgeRam_Driver_Door_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "DodgeRam_Driver_Door_Blue",
+                "DodgeRam_Driver_Door_BlueTiger",
+                "DodgeRam_Driver_Door_CamoGreen",
+                "DodgeRam_Driver_Door_ChinaLake",
+                "DodgeRam_Driver_Door_Cyan",
+                "DodgeRam_Driver_Door_DUDB",
+                "DodgeRam_Driver_Door_Green",
+                "DodgeRam_Driver_Door_Mocha",
+                "DodgeRam_Driver_Door_ModernWoodland",
+                "DodgeRam_Driver_Door_Orange",
+                "DodgeRam_Driver_Door_Pink",
+                "DodgeRam_Driver_Door_Red",
+                "DodgeRam_Driver_Door_RedTiger",
+                "DodgeRam_Driver_Door_Skulls",
+                "DodgeRam_Driver_Door_Teal",
+                "DodgeRam_Driver_Door_TopoGraphic",
+                "DodgeRam_Driver_Door_TopoTrip",
+                "DodgeRam_Driver_Door_VectorTrails",
+                "DodgeRam_Driver_Door_White",
+                "DodgeRam_Driver_Door_Woodland_Blue",
+                "DodgeRam_Driver_Door_Woodland_Nightfrost",
+                "DodgeRam_Driver_Door_Woodland_Sand",
+                "DodgeRam_Driver_Door_Yellow",
+                "DodgeRam_Driver_Door_camoblack",
+                "DodgeRam_Driver_Door_camoblue",
+                "DodgeRam_Driver_Door_camogreen",
+                "DodgeRam_Driver_Door_camonuke",
+                "DodgeRam_Driver_Door_camored",
+                "DodgeRam_Driver_Door_camowhite"
+            ]
+        },
+        {
+            "ClassName": "DodgeRam_CoDriver_Door_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "DodgeRam_CoDriver_Door_Blue",
+                "DodgeRam_CoDriver_Door_BlueTiger",
+                "DodgeRam_CoDriver_Door_CamoGreen",
+                "DodgeRam_CoDriver_Door_ChinaLake",
+                "DodgeRam_CoDriver_Door_Cyan",
+                "DodgeRam_CoDriver_Door_DUDB",
+                "DodgeRam_CoDriver_Door_Green",
+                "DodgeRam_CoDriver_Door_Mocha",
+                "DodgeRam_CoDriver_Door_ModernWoodland",
+                "DodgeRam_CoDriver_Door_Orange",
+                "DodgeRam_CoDriver_Door_Pink",
+                "DodgeRam_CoDriver_Door_Red",
+                "DodgeRam_CoDriver_Door_RedTiger",
+                "DodgeRam_CoDriver_Door_Skulls",
+                "DodgeRam_CoDriver_Door_Teal",
+                "DodgeRam_CoDriver_Door_TopoGraphic",
+                "DodgeRam_CoDriver_Door_TopoTrip",
+                "DodgeRam_CoDriver_Door_VectorTrails",
+                "DodgeRam_CoDriver_Door_White",
+                "DodgeRam_CoDriver_Door_Woodland_Blue",
+                "DodgeRam_CoDriver_Door_Woodland_Nightfrost",
+                "DodgeRam_CoDriver_Door_Woodland_Sand",
+                "DodgeRam_CoDriver_Door_Yellow",
+                "DodgeRam_CoDriver_Door_camoblack",
+                "DodgeRam_CoDriver_Door_camoblue",
+                "DodgeRam_CoDriver_Door_camogreen",
+                "DodgeRam_CoDriver_Door_camonuke",
+                "DodgeRam_CoDriver_Door_camored",
+                "DodgeRam_CoDriver_Door_camowhite"
+            ]
+        },
+        {
+            "ClassName": "DodgeRam_Hood_Black",
+            "MaxPriceThreshold": 2300,
+            "MinPriceThreshold": 2300,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "DodgeRam_Hood_Blue",
+                "DodgeRam_Hood_BlueTiger",
+                "DodgeRam_Hood_CamoGreen",
+                "DodgeRam_Hood_ChinaLake",
+                "DodgeRam_Hood_Cyan",
+                "DodgeRam_Hood_DUDB",
+                "DodgeRam_Hood_Green",
+                "DodgeRam_Hood_Mocha",
+                "DodgeRam_Hood_ModernWoodland",
+                "DodgeRam_Hood_Orange",
+                "DodgeRam_Hood_Pink",
+                "DodgeRam_Hood_Red",
+                "DodgeRam_Hood_RedTiger",
+                "DodgeRam_Hood_Skulls",
+                "DodgeRam_Hood_Teal",
+                "DodgeRam_Hood_TopoGraphic",
+                "DodgeRam_Hood_TopoTrip",
+                "DodgeRam_Hood_VectorTrails",
+                "DodgeRam_Hood_White",
+                "DodgeRam_Hood_Woodland_Blue",
+                "DodgeRam_Hood_Woodland_Nightfrost",
+                "DodgeRam_Hood_Woodland_Sand",
+                "DodgeRam_Hood_Yellow",
+                "DodgeRam_Hood_camoblack",
+                "DodgeRam_Hood_camoblue",
+                "DodgeRam_Hood_camogreen",
+                "DodgeRam_Hood_camonuke",
+                "DodgeRam_Hood_camored",
+                "DodgeRam_Hood_camowhite"
+            ]
+        },
+        {
+            "ClassName": "DodgeRam_Trunk_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [] 
+        },
+        {
+            "ClassName": "DodgeRam_Cargo1_Black",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "DodgeRam_Cargo1_Blue",
+                "DodgeRam_Cargo1_BlueTiger",
+                "DodgeRam_Cargo1_CamoGreen",
+                "DodgeRam_Cargo1_ChinaLake",
+                "DodgeRam_Cargo1_Cyan",
+                "DodgeRam_Cargo1_DUDB",
+                "DodgeRam_Cargo1_Green",
+                "DodgeRam_Cargo1_Mocha",
+                "DodgeRam_Cargo1_ModernWoodland",
+                "DodgeRam_Cargo1_Orange",
+                "DodgeRam_Cargo1_Pink",
+                "DodgeRam_Cargo1_Red",
+                "DodgeRam_Cargo1_RedTiger",
+                "DodgeRam_Cargo1_Skulls",
+                "DodgeRam_Cargo1_Teal",
+                "DodgeRam_Cargo1_TopoGraphic",
+                "DodgeRam_Cargo1_TopoTrip",
+                "DodgeRam_Cargo1_VectorTrails",
+                "DodgeRam_Cargo1_White",
+                "DodgeRam_Cargo1_Woodland_Blue",
+                "DodgeRam_Cargo1_Woodland_Nightfrost",
+                "DodgeRam_Cargo1_Woodland_Sand",
+                "DodgeRam_Cargo1_Yellow",
+                "DodgeRam_Cargo1_camoblack",
+                "DodgeRam_Cargo1_camoblue",
+                "DodgeRam_Cargo1_camogreen",
+                "DodgeRam_Cargo1_camonuke",
+                "DodgeRam_Cargo1_camored",
+                "DodgeRam_Cargo1_camowhite"
+            ]
+        },
+        {
+            "ClassName": "DodgeRam_Cargo2_Black",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "DodgeRam_Cargo2_Blue",
+                "DodgeRam_Cargo2_BlueTiger",
+                "DodgeRam_Cargo2_CamoGreen",
+                "DodgeRam_Cargo2_ChinaLake",
+                "DodgeRam_Cargo2_Cyan",
+                "DodgeRam_Cargo2_DUDB",
+                "DodgeRam_Cargo2_Green",
+                "DodgeRam_Cargo2_Mocha",
+                "DodgeRam_Cargo2_ModernWoodland",
+                "DodgeRam_Cargo2_Orange",
+                "DodgeRam_Cargo2_Pink",
+                "DodgeRam_Cargo2_Red",
+                "DodgeRam_Cargo2_RedTiger",
+                "DodgeRam_Cargo2_Skulls",
+                "DodgeRam_Cargo2_Teal",
+                "DodgeRam_Cargo2_TopoGraphic",
+                "DodgeRam_Cargo2_TopoTrip",
+                "DodgeRam_Cargo2_VectorTrails",
+                "DodgeRam_Cargo2_White",
+                "DodgeRam_Cargo2_Woodland_Blue",
+                "DodgeRam_Cargo2_Woodland_Nightfrost",
+                "DodgeRam_Cargo2_Woodland_Sand",
+                "DodgeRam_Cargo2_Yellow",
+                "DodgeRam_Cargo2_camoblack",
+                "DodgeRam_Cargo2_camoblue",
+                "DodgeRam_Cargo2_camogreen",
+                "DodgeRam_Cargo2_camonuke",
+                "DodgeRam_Cargo2_camored",
+                "DodgeRam_Cargo2_camowhite"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_driverdoor_blue",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgecharger_driverdoor_green",
+                "dodgecharger_driverdoor_lightblue",
+                "dodgecharger_driverdoor_pink",
+                "dodgecharger_driverdoor_red",
+                "dodgecharger_driverdoor_white"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_codriver_blue",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgecharger_codriver_green",
+                "dodgecharger_codriver_lightblue",
+                "dodgecharger_codriver_pink",
+                "dodgecharger_codriver_red",
+                "dodgecharger_codriver_white"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_hood_blue",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgecharger_hood_green",
+                "dodgecharger_hood_lightblue",
+                "dodgecharger_hood_pink",
+                "dodgecharger_hood_red",
+                "dodgecharger_hood_white"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_trunk_blue",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgecharger_trunk_green",
+                "dodgecharger_trunk_lightblue",
+                "dodgecharger_trunk_pink",
+                "dodgecharger_trunk_red",
+                "dodgecharger_trunk_white"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_cargo1_blue",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgecharger_cargo1_green",
+                "dodgecharger_cargo1_lightblue",
+                "dodgecharger_cargo1_pink",
+                "dodgecharger_cargo1_red",
+                "dodgecharger_cargo1_white"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_cargo2_blue",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 1800,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "dodgecharger_cargo2_green",
+                "dodgecharger_cargo2_lightblue",
+                "dodgecharger_cargo2_pink",
+                "dodgecharger_cargo2_red",
+                "dodgecharger_cargo2_white"
+            ]
+        },
+        {
+            "ClassName": "dodgecharger_wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "fordraptormonster_driverdoor_Baja",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fordraptormonster_driverdoor_Halo",
+                "fordraptormonster_driverdoor_Raptor",
+                "fordraptormonster_driverdoor_Roush",
+                "fordraptormonster_driverdoor_WideOpen"
+            ]
+        },
+        {
+            "ClassName": "fordraptormonster_codriver_Baja",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fordraptormonster_codriver_Halo",
+                "fordraptormonster_codriver_Raptor",
+                "fordraptormonster_codriver_Roush",
+                "fordraptormonster_codriver_WideOpen"
+            ]
+        },
+        {
+            "ClassName": "fordraptormonster_trunk_Baja",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "fordraptormonster_trunk_Halo",
+                "fordraptormonster_trunk_Raptor",
+                "fordraptormonster_trunk_Roush",
+                "fordraptormonster_trunk_WideOpen"
+            ]
+        },
+        {
+            "ClassName": "fordraptor_Monster_wheel",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1600,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 6,
+            "MinStockThreshold": 3,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MotorHome_HoodApo",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 2500,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "MotorHome_HoodGreenCamo",
+                "MotorHome_HoodRust",
+                "MotorHome_Hood2Apo",
+                "MotorHome_Hood2GreenCamo",
+                "MotorHome_Hood2Rust"
+            ]
+        },
+        {
+            "ClassName": "NissanGTR_Driverdoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTR_Driverdoor_Blue",
+                "NissanGTR_Driverdoor_DarkPurple",
+                "NissanGTR_Driverdoor_Green",
+                "NissanGTR_Driverdoor_Orange",
+                "NissanGTR_Driverdoor_Pink",
+                "NissanGTR_Driverdoor_Red",
+                "NissanGTR_Driverdoor_White"
+            ]
+        },
+        {
+            "ClassName": "NissanGTR_Codriverdoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTR_Codriverdoor_Blue",
+                "NissanGTR_Codriverdoor_DarkPurple",
+                "NissanGTR_Codriverdoor_Green",
+                "NissanGTR_Codriverdoor_Orange",
+                "NissanGTR_Codriverdoor_Pink",
+                "NissanGTR_Codriverdoor_Red",
+                "NissanGTR_Codriverdoor_White"
+            ]
+        },
+        {
+            "ClassName": "NissanGTR_Hood_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTR_Hood_Blue",
+                "NissanGTR_Hood_DarkPurple",
+                "NissanGTR_Hood_Green",
+                "NissanGTR_Hood_Orange",
+                "NissanGTR_Hood_Pink",
+                "NissanGTR_Hood_Red",
+                "NissanGTR_Hood_White"
+            ]
+        },
+        {
+            "ClassName": "NissanGTR_Trunk_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTR_Trunk_Blue",
+                "NissanGTR_Trunk_DarkPurple",
+                "NissanGTR_Trunk_Green",
+                "NissanGTR_Trunk_Orange",
+                "NissanGTR_Trunk_Pink",
+                "NissanGTR_Trunk_Red",
+                "NissanGTR_Trunk_White"
+            ]
+        },
+        {
+            "ClassName": "NissanGTRCustom_Driverdoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTRCustom_Driverdoor_Blood",
+                "NissanGTRCustom_Driverdoor_LB",
+                "NissanGTRCustom_Driverdoor_Pink"
+            ]
+        },
+        {
+            "ClassName": "NissanGTRCustom_Codriverdoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTRCustom_Codriverdoor_Blood",
+                "NissanGTRCustom_Codriverdoor_LB",
+                "NissanGTRCustom_Codriverdoor_Pink"
+            ]
+        },
+        {
+            "ClassName": "NissanGTRCustom_Hood_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTRCustom_Hood_Blood",
+                "NissanGTRCustom_Hood_LB",
+                "NissanGTRCustom_Hood_Pink"
+            ]
+        },
+        {
+            "ClassName": "NissanGTRCustom_Trunk_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "NissanGTRCustom_Trunk_Blood",
+                "NissanGTRCustom_Trunk_LB",
+                "NissanGTRCustom_Trunk_Pink"
+            ]
+        },
+        {
+            "ClassName": "NissanGTRNismo_Wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Porsche_911RWB_Driver_Door_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_Driver_Door_Blue",
+                "Porsche_911RWB_Driver_Door_Green",
+                "Porsche_911RWB_Driver_Door_Orange",
+                "Porsche_911RWB_Driver_Door_Pink",
+                "Porsche_911RWB_Driver_Door_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_CoDriver_Door_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_CoDriver_Door_Blue",
+                "Porsche_911RWB_CoDriver_Door_Green",
+                "Porsche_911RWB_CoDriver_Door_Orange",
+                "Porsche_911RWB_CoDriver_Door_Pink",
+                "Porsche_911RWB_CoDriver_Door_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Hood_Black",
+            "MaxPriceThreshold": 2400,
+            "MinPriceThreshold": 2400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_Hood_Blue",
+                "Porsche_911RWB_Hood_Green",
+                "Porsche_911RWB_Hood_Orange",
+                "Porsche_911RWB_Hood_Pink",
+                "Porsche_911RWB_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Trunk_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Porsche_911RWB_Trunk_Blue",
+                "Porsche_911RWB_Trunk_Green",
+                "Porsche_911RWB_Trunk_Orange",
+                "Porsche_911RWB_Trunk_Pink",
+                "Porsche_911RWB_Trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "Porsche_911RWB_Front_Wheel",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 1500,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Runner_DriverDoor_BOSS",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Runner_DriverDoor_blue",
+                "Runner_DriverDoor_camoblack",
+                "Runner_DriverDoor_camoblue",
+                "Runner_DriverDoor_camogreen",
+                "Runner_DriverDoor_camopink",
+                "Runner_DriverDoor_camopurple",
+                "Runner_DriverDoor_camored",
+                "Runner_DriverDoor_camowhite",
+                "Runner_DriverDoor_pink",
+                "Runner_DriverDoor_red",
+                "Runner_DriverDoor_white",
+                "Runner_DriverDoor_yellow"
+            ]
+        },
+        {
+            "ClassName": "Runner_CoDriver_Door_BOSS",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Runner_CoDriver_Door_blue",
+                "Runner_CoDriver_Door_camoblack",
+                "Runner_CoDriver_Door_camoblue",
+                "Runner_CoDriver_Door_camogreen",
+                "Runner_CoDriver_Door_camopink",
+                "Runner_CoDriver_Door_camopurple",
+                "Runner_CoDriver_Door_camored",
+                "Runner_CoDriver_Door_camowhite",
+                "Runner_CoDriver_Door_pink",
+                "Runner_CoDriver_Door_red",
+                "Runner_CoDriver_Door_white",
+                "Runner_CoDriver_Door_yellow"
+            ]
+        },
+        {
+            "ClassName": "Runner_Hood_BOSS",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Runner_Hood_blue",
+                "Runner_Hood_camoblack",
+                "Runner_Hood_camoblue",
+                "Runner_Hood_camogreen",
+                "Runner_Hood_camopink",
+                "Runner_Hood_camopurple",
+                "Runner_Hood_camored",
+                "Runner_Hood_camowhite",
+                "Runner_Hood_pink",
+                "Runner_Hood_red",
+                "Runner_Hood_white",
+                "Runner_Hood_yellow"
+            ]
+        },
+        {
+            "ClassName": "Runner_Trunk_BOSS",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Runner_Trunk_blue",
+                "Runner_Trunk_camoblack",
+                "Runner_Trunk_camoblue",
+                "Runner_Trunk_camogreen",
+                "Runner_Trunk_camopink",
+                "Runner_Trunk_camopurple",
+                "Runner_Trunk_camored",
+                "Runner_Trunk_camowhite",
+                "Runner_Trunk_red",
+                "Runner_Trunk_white",
+                "Runner_Trunk_yellow"
+            ]
+        },
+        {
+            "ClassName": "Runner_Cargo1_BOSS",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Runner_Cargo1_blue",
+                "Runner_Cargo1_camoblack",
+                "Runner_Cargo1_camoblue",
+                "Runner_Cargo1_camogreen",
+                "Runner_Cargo1_camopink",
+                "Runner_Cargo1_camopurple",
+                "Runner_Cargo1_camored",
+                "Runner_Cargo1_camowhite",
+                "Runner_Cargo1_pink",
+                "Runner_Cargo1_red",
+                "Runner_Cargo1_white",
+                "Runner_Cargo1_yellow"
+            ]
+        },
+        {
+            "ClassName": "Runner_Cargo2_BOSS",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Runner_Cargo2_blue",
+                "Runner_Cargo2_camoblack",
+                "Runner_Cargo2_camoblue",
+                "Runner_Cargo2_camogreen",
+                "Runner_Cargo2_camopink",
+                "Runner_Cargo2_camopurple",
+                "Runner_Cargo2_camored",
+                "Runner_Cargo2_camowhite",
+                "Runner_Cargo2_pink",
+                "Runner_Cargo2_red",
+                "Runner_Cargo2_white",
+                "Runner_Cargo2_yellow"
+            ]
+        },
+        {
+            "ClassName": "Runner_Wheel",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Skyline_driverdoor_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_driverdoor_Blue",
+                "Skyline_driverdoor_Orange",
+                "Skyline_driverdoor_Pink",
+                "Skyline_driverdoor_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_codriver_door_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_codriver_door_Blue",
+                "Skyline_codriver_door_Orange",
+                "Skyline_codriver_door_Pink",
+                "Skyline_codriver_door_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_Hood_Black",
+            "MaxPriceThreshold": 2200,
+            "MinPriceThreshold": 2200,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_Hood_Blue",
+                "Skyline_Hood_Orange",
+                "Skyline_Hood_Pink",
+                "Skyline_Hood_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_Trunk_Black",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 2000,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Skyline_Trunk_Blue",
+                "Skyline_Trunk_Orange",
+                "Skyline_Trunk_Pink",
+                "Skyline_Trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "Skyline_Wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Supra_DriverDoor_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Supra_DriverDoor_Blue",
+                "Supra_DriverDoor_Green",
+                "Supra_DriverDoor_Lighting",
+                "Supra_DriverDoor_Red",
+                "Supra_DriverDoor_Sponge",
+                "Supra_DriverDoor_White"
+            ]
+        },
+        {
+            "ClassName": "Supra_CoDriverDoor_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Supra_CoDriverDoor_Blue",
+                "Supra_CoDriverDoor_Green",
+                "Supra_CoDriverDoor_Lighting",
+                "Supra_CoDriverDoor_Red",
+                "Supra_CoDriverDoor_Sponge",
+                "Supra_CoDriverDoor_White"
+            ]
+        },
+        {
+            "ClassName": "Supra_Hood_Black",
+            "MaxPriceThreshold": 2300,
+            "MinPriceThreshold": 2300,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Supra_Hood_Blue",
+                "Supra_Hood_Green",
+                "Supra_Hood_Lighting",
+                "Supra_Hood_Red",
+                "Supra_Hood_Sponge",
+                "Supra_Hood_White"
+            ]
+        },
+        {
+            "ClassName": "Supra_Trunk_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Supra_Trunk_Blue",
+                "Supra_Trunk_Green",
+                "Supra_Trunk_Lighting",
+                "Supra_Trunk_Red",
+                "Supra_Trunk_Sponge",
+                "Supra_Trunk_White"
+            ]
+        },
+        {
+            "ClassName": "Supra_Wheel",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Tahoe_driverdoor_Black",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_driverdoor_Blue",
+                "Tahoe_driverdoor_Brown",
+                "Tahoe_driverdoor_DarkBlue",
+                "Tahoe_driverdoor_Green",
+                "Tahoe_driverdoor_LightBlue",
+                "Tahoe_driverdoor_Pink",
+                "Tahoe_driverdoor_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_codriver_Black",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_codriver_Blue",
+                "Tahoe_codriver_Brown",
+                "Tahoe_codriver_DarkBlue",
+                "Tahoe_codriver_Green",
+                "Tahoe_codriver_LightBlue",
+                "Tahoe_codriver_Pink",
+                "Tahoe_codriver_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_hood_Black",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 2100,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 3,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_hood_Blue",
+                "Tahoe_hood_Brown",
+                "Tahoe_hood_DarkBlue",
+                "Tahoe_hood_Green",
+                "Tahoe_hood_LightBlue",
+                "Tahoe_hood_Pink",
+                "Tahoe_hood_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_trunk_Black",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1900,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_trunk_Blue",
+                "Tahoe_trunk_Brown",
+                "Tahoe_trunk_DarkBlue",
+                "Tahoe_trunk_Green",
+                "Tahoe_trunk_LightBlue",
+                "Tahoe_trunk_Pink",
+                "Tahoe_trunk_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_cargo1_Black",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_cargo1_Blue",
+                "Tahoe_cargo1_Brown",
+                "Tahoe_cargo1_DarkBlue",
+                "Tahoe_cargo1_Green",
+                "Tahoe_cargo1_LightBlue",
+                "Tahoe_cargo1_Pink",
+                "Tahoe_cargo1_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_cargo2_Black",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 4,
+            "MinStockThreshold": 2,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "Tahoe_cargo2_Blue",
+                "Tahoe_cargo2_Brown",
+                "Tahoe_cargo2_DarkBlue",
+                "Tahoe_cargo2_Green",
+                "Tahoe_cargo2_LightBlue",
+                "Tahoe_cargo2_Pink",
+                "Tahoe_cargo2_Red"
+            ]
+        },
+        {
+            "ClassName": "Tahoe_wheel",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": 57,
+            "MaxStockThreshold": 8,
+            "MinStockThreshold": 4,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}
