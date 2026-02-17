@@ -1,0 +1,56 @@
+{
+    "m_Version": 12,
+    "DisplayName": "PRODUCT",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CP_CannabisBrickStardawg",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickSkunk",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"CP_CannabisBrickBlue",
+				"CP_CannabisBrickKush",
+				"CP_CannabisBrickFuture",
+				"CP_CannabisBrickS1",
+				"CP_CannabisBrickNomad",
+				"CP_CannabisBrickBlackFrost"
+			]
+        },
+        {
+            "ClassName": "Blackouts_CannabisBrickMidnight_Express",
+            "MaxPriceThreshold": 8000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 100,
+            "MaxStockThreshold": 10,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": [
+				"Blackouts_CannabisBrickAlbino",
+				"Blackouts_CigarettePack_CannabisMidnight_Express",
+				"Blackouts_CannabisBrickExodus",
+				"Blackouts_CannabisBrickGanja_Mountain",
+				"Blackouts_CannabisBrickDaxtal"			
+			]
+        }
+    ]
+}
