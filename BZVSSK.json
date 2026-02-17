@@ -1,0 +1,1074 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BallerZ Snafu VSSK Series",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "BZ_SNAFUVSSK_Black",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Hemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_USA",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Monster",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_DP",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_HK",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_LS",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Tiger",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_WTiger",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_LV",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Gucci",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_HelloKDP",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_DC",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Marvel",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Cosmic",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Snake",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Ferrari",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Joker",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Money",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Future",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Heineken",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Gold",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Purple",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Crypto",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_World",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_SMAN",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_SW",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_PA",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_DBZ",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_UCP",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Tropic",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Alpine",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Desert",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Vietnam",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Woodland",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Urban",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Scooby",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Abstract1",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Abstract2",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Alien",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_AlienWare",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_AquaCamo",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_AquaHemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Bananas",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Bee",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Beetlejuice",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_BlueHemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Bubbles",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Budweiser",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Circuit",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_CocaCola",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_CrocHide",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_DeathNote",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_DemonSlayer",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Glitter",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Haribo",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Hex1",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Hex2",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Hex3",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Lava",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Math",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Matrix",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_MountainDew",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_OrangeHemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Pepsi",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_PinkHemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_PokeMon",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Razor",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_RedCamo",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_RedHemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_RickandMorty",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Simpsons",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Spongebob",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_StrangerThings",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_Thai",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_SNAFUVSSK_YellowHemp",
+      "MaxPriceThreshold": 1350000,
+      "MinPriceThreshold": 1350000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_SNAFUVSSK_MAG_100rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

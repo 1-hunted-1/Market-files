@@ -1,0 +1,1253 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BallerZ M82 Barret Series",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "BZ_M82_Barret_Black",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Hemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_USA",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Monster",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_DP",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_HK",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_LS",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Tiger",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_WTiger",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_LV",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Gucci",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_HelloKDP",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_DC",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Marvel",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Cosmic",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Snake",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Ferrari",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Joker",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Money",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Future",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Heineken",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Gold",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Purple",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Crypto",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_World",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_SMan",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_SW",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_PA",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_DBZ",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_UCP",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Tropic",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Alpine",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Desert",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Vietnam",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Woodland",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Urban",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Scooby",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Abstract1",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Abstract2",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Alien",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_AlienWare",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_AquaCamo",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_AquaHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Bananas",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Bee",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Beetlejuice",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_BlueHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Bubbles",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Budweiser",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Circuit",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_CocaCola",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_CrocHide",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_DeathNote",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_DemonSlayer",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Glitter",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Haribo",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Hex1",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Hex2",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Hex3",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Lava",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Math",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Matrix",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_MountainDew",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_OrangeHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Pepsi",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_PinkHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_PokeMon",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Razor",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_RedCamo",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_RedHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_RickandMorty",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Simpsons",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Spongebob",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_StrangerThings",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Thai",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_YellowHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_PurpleHemp",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Anime",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_CherryBlossom",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_M82_Barret_Scooby",
+      "MaxPriceThreshold": 1550000,
+      "MinPriceThreshold": 1550000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "SNAFU_50Bmg_Suppressor_B",
+        "BZ_M82_Barret_MAG_100rnd"
+
+      ],
+      "Variants": []
+    }
+  ]
+}

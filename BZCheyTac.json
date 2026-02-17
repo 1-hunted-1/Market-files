@@ -1,0 +1,1302 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BallerZ Snafu_CheyTac Series",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Black",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Hemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_USA",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Monster",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_DP",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_HK",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_LS",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Tiger",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_WTiger",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_LV",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Gucci",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_HelloKDP",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_DC",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Marvel",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Cosmic",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Snake",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Ferrari",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Joker",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Money",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Future",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Heineken",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Gold",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Purple",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Crypto",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_World",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_SMAN",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_SW",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_PA",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_DBZ",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_UCP",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Tropic",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Alpine",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Desert",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Vietnam",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Woodland",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Urban",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Scooby",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Abstract1",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Abstract2",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Alien",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_AlienWare",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_AquaCamo",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_AquaHemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Bananas",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Bee",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Beetlejuice",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_BlueHemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Bubbles",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Budweiser",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Circuit",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_CocaCola",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_CrocHide",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_DeathNote",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_DemonSlayer",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Glitter",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Haribo",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Hex1",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Hex2",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Hex3",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Lava",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Math",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Matrix",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_MountainDew",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_OrangeHemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Pepsi",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_PinkHemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_PokeMon",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Razor",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_RedCamo",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_RedHemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_RickandMorty",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Simpsons",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Spongebob",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_StrangerThings",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_Thai",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_CheyTac_YellowHemp",
+      "MaxPriceThreshold": 2000000,
+      "MinPriceThreshold": 2000000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+        "BZ_Snafu_CheyTac_MAG_150rnd",
+		"SNAFU_50Bmg_Suppressor_B",
+		"SNAFU_M200S_BK",
+		"SNAFU_M200B_BK"
+      ],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,1226 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BallerZ Snafu Beast Master Series",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Black",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Hemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_USA",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Monster",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_DP",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_HK",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_LS",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Tiger",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_WTiger",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_LV",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Gucci",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_HelloKDP",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_DC",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Marvel",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Cosmic",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Snake",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Ferrari",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Joker",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Money",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Future",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Heineken",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Gold",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Purple",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Crypto",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_World",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_SMAN",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_SW",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_PA",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_DBZ",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_UCP",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Tropic",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Alpine",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Desert",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Vietnam",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Woodland",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Urban",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Scooby",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Abstract1",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Abstract2",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Alien",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_AlienWare",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_AquaCamo",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_AquaHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Bananas",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Bee",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Beetlejuice",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_BlueHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Bubbles",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Budweiser",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Circuit",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_CocaCola",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_CrocHide",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_DeathNote",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_DemonSlayer",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Glitter",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Haribo",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Hex1",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Hex2",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Hex3",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Lava",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Math",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Matrix",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_MountainDew",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_OrangeHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Pepsi",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_PinkHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_PokeMon",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Razor",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_RedCamo",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_RedHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_RickandMorty",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Simpsons",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Spongebob",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_StrangerThings",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_Thai",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Beast_Master_YellowHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_AFG_02_Black",
+		"SNAFUGevar_Suppressor_Black",
+        "BZ_Snafu_Beast_Master_MAG_250rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+	"m_Version":12,
+	"DisplayName":"BallerZ Magazines",
+	"Icon":"Deliver",
+	"Color":"FBFCFEFF",
+	"IsExchange":0,
+	"InitStockPercent":75.0,
+	"Items":[
+		{
+		  "ClassName": "BZ_SNAFUVSSK_MAG_100rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_50Cal"
+		  ],
+		  "Variants": []
+		},
+		{
+		  "ClassName": "BZ_Snafu_Alligator_MAG_100rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_145Cal"
+		  ],
+		  "Variants": []
+		},
+		{
+		  "ClassName": "BZ_M82_MAG_100rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_50Cal"
+		  ],
+		  "Variants": []
+		},
+		{
+		  "ClassName": "BZ_Snafu_Beast_Master_MAG_250rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_50Cal"
+		  ],
+		  "Variants": []
+		},
+		{
+		  "ClassName": "BZ_Snafu_Predator_MAG_250rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_338Cal"
+		  ],
+		  "Variants": []
+		},
+		{
+		  "ClassName": "BZ_Snafu_Baller_MAG_250rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_308Cal"
+		  ],
+		  "Variants": []
+		},
+		{
+		  "ClassName": "BZ_Snafu_CheyTac_MAG_150rnd",
+		  "MaxPriceThreshold": 50000,
+		  "MinPriceThreshold": 50000,
+		  "SellPricePercent": -1,
+		  "MaxStockThreshold": 1,
+		  "MinStockThreshold": 1,
+		  "QuantityPercent": -1,
+		  "SpawnAttachments": [
+			"BZ_Ammo_408Cal"
+		  ],
+		  "Variants": []
+		}
+	]	
+}

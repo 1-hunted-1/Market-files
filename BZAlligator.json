@@ -1,0 +1,1150 @@
+{
+  "m_Version": 12,
+  "DisplayName": "BallerZ Snafu Alligator Series",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75,
+  "Items": [
+    {
+      "ClassName": "BZ_Snafu_Alligator_Black",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Hemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_USA",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Monster",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_DP",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_HK",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_LS",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Tiger",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_WTiger",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_LV",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Gucci",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_HelloKDP",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_DC",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Marvel",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Cosmic",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Snake",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Ferrari",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Joker",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Money",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Future",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Heineken",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Gold",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Purple",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Crypto",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_World",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_SMAN",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_SW",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_PA",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_DBZ",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_UCP",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Tropic",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Alpine",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Desert",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Vietnam",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Woodland",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Urban",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Scooby",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Abstract1",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Abstract2",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Alien",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_AlienWare",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_AquaCamo",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_AquaHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Bananas",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Bee",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Beetlejuice",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_BlueHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Bubbles",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Budweiser",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Circuit",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_CocaCola",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_CrocHide",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_DeathNote",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_DemonSlayer",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Glitter",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Haribo",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Hex1",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Hex2",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Hex3",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Lava",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Math",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Matrix",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_MountainDew",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_OrangeHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Pepsi",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_PinkHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_PokeMon",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Razor",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_RedCamo",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_RedHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_RickandMorty",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Simpsons",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Spongebob",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_StrangerThings",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_Thai",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    },
+    {
+      "ClassName": "BZ_Snafu_Alligator_YellowHemp",
+      "MaxPriceThreshold": 1500000,
+      "MinPriceThreshold": 1500000,
+      "SellPricePercent": 1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [
+        "SNAFU_Tango6T_Black",
+		"SNAFU_50Bmg_Suppressor_B",
+        "BZ_Snafu_Alligator_MAG_100rnd"
+      ],
+      "Variants": []
+    }
+  ]
+}
